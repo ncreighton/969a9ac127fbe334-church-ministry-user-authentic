@@ -1,0 +1,2 @@
+# 969a9ac127fbe334-church-ministry-user-authentic
+The church ministry tool you'd build yourself — if you had the time.  RESTful JSON API with comprehensive documentation and code examples. SDKs and quickstart guides for Python, JavaScript, PHP, and cURL.  ## What's Included  - Church Ministry User Authentication And Access Control — fully configured and ready to use - RESTful JSON API with OpenAPI
